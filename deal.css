@@ -20,7 +20,7 @@
 }
 .logo
 {
-    background-image: url("https://pngimg.com/uploads/amazon/amazon_PNG13.png");
+    background-image: url("amazon_logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -119,12 +119,12 @@ span{
     display: flex;
     color: white;
     align-items: center;
-    justify-content: space-evenly;
+    
 }
 .panel-ops p
 {
     display: inline;
-    margin-left: 15px;
+    margin-left: 20px;
 }
 .panel-ops 
 {
@@ -141,3 +141,30 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+.panel-all
+{
+    margin-left: 4rem;
+    margin-right: 3rem;
+}
+
+/*second panel*/
+
+
+.panel_two
+{
+    height: 33px;
+    background-color: #fafafa;
+    color: #0f1111;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    display: flex;
+    padding: 0px 9px 0px 15px;
+    cursor: pointer;
+    font-size: 12px;
+    
+}
+.yellow
+{
+    padding: 0px 11px 0px 11px;
+    align-self: center;
+}
+
