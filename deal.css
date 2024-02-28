@@ -168,3 +168,126 @@ span{
     align-self: center;
 }
 
+.yellow:hover
+{
+    border-bottom:2px solid #f90;
+    color:#e47911;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.bold
+{
+    padding: 12px 16px 8px 16px;
+    height: 40px;
+    font-size: 28px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.president
+{
+   height:104px;
+   background-image: url('https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/Deals/Presidents_Day/LP/D_1500x125_Prez_Day.jpg');
+   background-size:cover;
+   margin-bottom: 14px;
+   
+}
+
+.list
+{
+    height: 163px;
+    display: flex;
+    background-color:#eaeded ;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 12px;
+
+}
+.image_circle
+{
+    height: 85px;
+    width: 85px;
+    background-size: cover;
+    border-radius: 50%;
+  
+
+}
+.circle_text
+{
+    font-size: 14px;
+    padding: 10px 5px 0;
+    line-height: 20px;
+    
+    
+}
+.fixed
+{
+    height: 140px;
+}
+
+.Featured
+{
+    height: 22px;
+    width: 183.6px;
+    background: #f0f2f2;
+    border-radius:8px;
+    font-size: 11px;
+    border-color:#D5D9D9 ;
+    box-shadow: 0 2px 5px 0 rgba(213,217,217,0.5);
+
+    
+}
+.sort_by
+{
+    margin: 0px 20px 8px;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+/*main*/
+
+.main
+{
+    border-top: solid 1px #D5DBDB;
+}
+.discount
+{
+    width: 241px;    
+    height: 800px;
+    padding-left: 20px;
+    padding-top: 20px;
+    line-height: 20px;
+    margin: 0 0 0 18px;
+
+}
+
+.box_border
+{
+    border-right: solid 1px #D5DBDB;
+    border-bottom:solid 1px #D5DBDB;
+}
+
+.deep
+{
+   font-weight: 700;
+
+}
+
+.sizing
+{
+    font-size: 14px;
+    color: #007185;
+}
+
+.discount h4
+{
+    padding: 20px 0px 5px;
+    font-size: 18px;
+}
+.prime
+{
+    height: 30px;
+    width: 30px;
+}
